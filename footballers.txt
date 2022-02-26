@@ -4,4 +4,9 @@ DB10
 ZIDANE
 RONNEY
 htyasd
+<<<<<<< HEAD
 abcd
+=======
+asdasdasd
+abcd
+>>>>>>> exp
