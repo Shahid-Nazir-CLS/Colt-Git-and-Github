@@ -2,9 +2,6 @@ LUCY
 KRAKEN
 BATMAN
 SUPERMAN
-<<<<<<< HEAD
 D12
-=======
-D12
-D7nskas
->>>>>>> experiment
+D7nskasheyheyheyheyheyhye
+art
