@@ -5,4 +5,7 @@ SUPERMAN
 D12
 D7nskas
 halo
+<<<<<<< HEAD
+=======
 tempa
+>>>>>>> experiment

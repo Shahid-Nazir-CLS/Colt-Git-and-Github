@@ -1,9 +1,14 @@
 CR7
 Ronaldinho
 DB10
+<<<<<<< HEAD
+ZIDANE
+RONNEY
+=======
 TECHNOLOGY
 DISCO
 ZIzu
+>>>>>>> exp
 htyasd
 asdasdasd
 abcd
